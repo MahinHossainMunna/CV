@@ -1,2 +1,2 @@
 # CV
-Curriculum Vitae 
+Curriculum Vitae generated in LaTex
